@@ -1,0 +1,7 @@
+{
+  "name": "Astric Solutions AI Agent",
+  "description": "A technical smart agent for Astric Solutions, specializing in Sudanese-flavored professional interactions, system building, and customer relationship management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
